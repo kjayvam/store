@@ -2,22 +2,24 @@
 2023-03-26
 
 ## 주제
-
+<h1>안녕</h1>
 ## 나의 생각
 
 ## 사용 언어
-|언어|한글|
-|-|-|
-|SpringBoot|스프링부트|
-|Gradle|그래들|
-|MySQL|마이SQL|
-|H2|H2|
-|junit|제이유닛|
-|JPA|자바 퍼시스턴스|
-|MyBatis|마이바티스|
-|RESTful|레스트풀|
-|Mustache|머스테치|
-|Jasypt|자쉽트|
+|언어|버전|한글|
+|-|-|-|
+|InteliJ|2022.02.04|인텔리제이|
+|JAVA|8|자바|
+|SpringBoot|2.7.10|스프링부트|
+|Gradle|7.6.1|그래들|
+|MySQL|8|마이SQL|
+|H2 Database|2|H2|
+|junit|5.8.2|제이유닛|
+|JPA|2.7.10|자바 퍼시스턴스|
+|MyBatis|2.3.0|마이바티스|
+|RESTful||레스트풀|
+|Mustache|2.7.10|머스테치|
+|Jasypt|3.0.5|자시프트|
 
 
 , , , , , , , , , 
